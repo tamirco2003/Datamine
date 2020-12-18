@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "description": "datamine resources",
+        "pack_format": 5,
+        "_comment": "For some bizarre reason, it doesn't work without the comment."
+    }
+}
